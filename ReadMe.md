@@ -17,11 +17,11 @@ var arrayOfSizes = [app.activeDocument.width.value, 1200, 992, 768, 360, 320];
 
 ### Windows Path:
 ```
-Program / FilesAdobeAdobe / Photoshop CC 2014 / Presets / Scripts
+Program / FilesAdobeAdobe / Photoshop CC 2015 / Presets / Scripts
 ```
 ### Mac Path:
 ```
-Applications / [Adobe /] Photoshop CC / Presets / Scripts
+Applications / Adobe Photoshop CC / Presets / Scripts
 ```
 
 ##Notes:
