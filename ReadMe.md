@@ -1,12 +1,12 @@
 
-# Export to Web
+# Export to Web Photoshop Script
 
-A script to export your pictures for the web sized 100% and 200%.
+A script to export your pictures for the web sized non-retina and retina.
 Open all images in Photoshop and run the script:
 ```
 File / Scripts / ExportDocumentForWeb_FullAuto
 ```
-It will create a folder "ExportforWeb" and place all images there.
+It will create a folder "ExportForWeb" and place all images there.
 You can close your original pictures without saving. This script will save a PNG in 100%.
 
 ##Set desired screen sizes:
@@ -27,7 +27,7 @@ Applications / Adobe Photoshop CC / Presets / Scripts
 ##Notes:
 
 Based on Murdoch Carpenter's script.
-http://murdochcarpenter.com/blog/
+http://murdochcarpenter.com/blog/.
 Tested in Photoshop CC (2015.5.1)
 V2.0
 
